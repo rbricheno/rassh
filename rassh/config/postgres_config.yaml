@@ -1,0 +1,3 @@
+postgres_user: postgres
+postgres_dbname: rassh
+postgres_host: localhost
